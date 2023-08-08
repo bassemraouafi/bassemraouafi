@@ -57,7 +57,7 @@ const bassem = {
         devOps: ["AWS", "Docker🐳", "CICD with Jenkins", "Maven", "GIT & more!"],
         databases: ["MongoDB", "MySql", "Postgresql"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Single page applications"],
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
